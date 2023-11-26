@@ -1,3 +1,4 @@
+
 /* Events in JS
 
 - The change in the state of an object is known as an Event.
